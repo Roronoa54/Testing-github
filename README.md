@@ -6,5 +6,4 @@ This repository is created to practice and test Git commands and workflows.
 
 - Clone the repo:  
   ```bash
- git clone https://github.com/Roronoa54/testing-github.git
-
+  git clone https://github.com/Roronoa54/Testing-github.git
